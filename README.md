@@ -1,2 +1,2 @@
-# Web1
-Web Design I, Alamo Colleges
+# Project1
+Project for Web Design 1.
