@@ -45,7 +45,19 @@ h3 {
 	font-style: normal;
 	text-align: left;
 	color:#5B5255;
-	padding-top: 75px;
+	padding-top: 30px;
+	padding-right: 35px;
+	padding-left: 30px;
+}
+
+p {
+	font-size: 20px;
+	font-family: astoria sans;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	color:#5B5255;
+	padding-top: 5px;
 	padding-right: 35px;
 	padding-left: 30px;
 }
@@ -128,4 +140,8 @@ nav a:active {
 	padding-top: 80px;
 	padding-left: 100px;
 	
+}
+
+.background {
+	padding-top: 155px;
 }
